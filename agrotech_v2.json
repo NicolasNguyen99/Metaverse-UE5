@@ -1,0 +1,400 @@
+{
+    "id": 1,
+    "name": "WATERLINE",
+    "scenes": [
+        {   
+            "id": 1,
+            "name": "Real State",
+            "cameraDefaultPosition": {
+                "longitude": 17.031987721000064,
+                "latitude": 49.49898831400003,
+                "altitude": 320.0,
+                "rotation": -110.0
+            },
+            "terrainLayerId": 3,
+            "checkboxMode": false,
+            "layers": [
+                {
+                    "id": 1,
+                    "order": 1
+                },
+                {
+                    "id": 5,
+                    "order": 2
+                },
+                {
+                    "id": 22,
+                    "order": 3
+                },
+                {
+                    "id": 20,
+                    "order": 4
+                },
+                {
+                    "id": 21,
+                    "order": 5
+                },
+                {
+                    "id": 9,
+                    "order": 6
+                }
+                
+            ]
+        },
+        {   
+            "id": 2,
+            "name": "Trapozoidial Shaped Channel",
+            "cameraDefaultPosition": "TODO",
+            "terrainLayerId": 3,
+            "checkboxMode": false,
+            "layers": [
+                {
+                    "id": 2,
+                    "order": 1
+                },
+                {
+                    "id": 6,
+                    "order": 2
+                },
+                {
+                    "id": 23,
+                    "order": 3
+                },
+                {
+                    "id": 13,
+                    "order": 4
+                },
+                {
+                    "id": 10,
+                    "order": 5
+                }
+            ]
+        },
+         {   
+            "id": 3,
+            "name": "Trapozoidial Shaped Channel",
+            "cameraDefaultPosition": "TODO",
+            "terrainLayerId": 3,
+            "checkboxMode": false,
+            "layers": [
+                {
+                    "id": 3,
+                    "order": 1
+                },
+                {
+                    "id": 7,
+                    "order": 2
+                },
+                {
+                    "id": 24,
+                    "order": 3
+                },
+                {
+                    "id": 14,
+                    "order": 4
+                },
+                {
+                    "id": 11,
+                    "order": 5
+                }
+            ]
+        },
+         {   
+            "id": 4,
+            "name": "Rectangular Shaped Channel",
+            "cameraDefaultPosition": "TODO",
+            "terrainLayerId": 3,
+            "checkboxMode": false,
+            "layers": [
+                {
+                    "id": 4,
+                    "order": 1
+                },
+                {
+                    "id": 8,
+                    "order": 2
+                },
+                {
+                    "id": 25,
+                    "order": 3
+                },
+                {
+                    "id": 16,
+                    "order": 4
+                },
+                {
+                    "id": 19,
+                    "order": 5
+                }
+                
+            ]
+        },
+        {   
+            "id": 5,
+            "name": "Output from the design",
+            "cameraDefaultPosition": "TODO",
+            "terrainLayerId": 3,
+            "checkboxMode": false,
+            "layers": [
+                {
+                    "id": 17,
+                    "order": 1
+                },
+                {
+                    "id": 18,
+                    "order": 2
+                },
+                {
+                    "id": 26,
+                    "order": 3
+                },
+                {
+                    "id": 16,
+                    "order": 4
+                },
+                {
+                    "id": 19,
+                    "order": 5
+                }
+            ]
+        }
+    ],
+    "layers": [
+     {
+            "id": 1,
+            "name": "Real State",
+            "source": "ion",
+            "type": "3dtiles",
+            "canBeHidden": false,
+            "ionAssetId": "2471969",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 2,
+            "name": "Rectangular Shaped Channel",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471953",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 3,
+            "name": "Rectangular Shaped Channel",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471943",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 4,
+            "name": "Rectangular Shaped Channel",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471906",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 5,
+            "name": "Buildings",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471968",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 6,
+            "name": "Rectangular Shaped Channel",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471954",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 7,
+            "name": "Rectangular Shaped Channel",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471944",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 8,
+            "name": "Rectangular Shaped Channel",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2471919",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 9,
+            "name": "Water Level Q50",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2471970",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 10,
+            "name": "Water Level: Q50",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2471957",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 11,
+            "name": "Water Level: Q50",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2471945",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 12,
+            "name": "Water Level: Q50",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2471912",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 13,
+            "name": "Water Level: Q20",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2523090",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 14,
+            "name": "Water Level: Q20",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2523087",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 15,
+            "name": "Water Level: Q20",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2523081",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 16,
+            "name": "Water Level: Q20",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2523076",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 17,
+            "name": "Output from the design",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2493936",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 18,
+            "name": "Buildings",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2493935",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 19,
+            "name": "Water Level: Q50",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2498932",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 20,
+            "name": "Water Level: Q5",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2523181",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 21,
+            "name": "Water Level: Q20",
+            "source": "ion",
+            "type": "terrain",
+            "canBeHidden": true,
+            "ionAssetId": "2523177",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 22,
+            "name": "Water Measure",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2523352",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 23,
+            "name": "Water Measure",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2524095",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 24,
+            "name": "Water Measure",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2524108",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 25,
+            "name": "Water Measure",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2524109",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        },
+        {
+            "id": 26,
+            "name": "Water Measure",
+            "source": "ion",
+            "canBeHidden": false,
+            "type": "3dtiles",
+            "ionAssetId": "2524110",
+            "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
+        }
+        
+       
+    ]    
+}
