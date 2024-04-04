@@ -1,0 +1,56 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "name": "MENDELU Watercourses",
+            "order": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse sagittis ultrices augue. Nullam sit",
+            "scenarios": [
+                {
+                    "id": 1,
+                    "order": 1,
+                    "visited": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "MENDELU Flood Preventions",
+            "order": 2,
+            "scenarios": [
+                {
+                    "id": 1,
+                    "order": 1,
+                    "visited": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "MCAST Sea Level Rise",
+            "order": 3,
+            "scenarios": [
+                {
+                    "id": 2,
+                    "order": 1,
+                    "visited": false
+                },
+                {
+                    "id": 1,
+                    "order": 2,
+                    "visited": false
+                }
+            ]
+        }
+    ],
+    "scenarios": [
+        {
+            "id": 1,
+            "name": "Watercourse shapes"
+        },
+        {
+            "id": 2,
+            "name": "Materials"
+        }
+    ]
+}
