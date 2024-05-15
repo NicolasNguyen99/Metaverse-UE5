@@ -17,6 +17,22 @@
                 {
                     "id": 1,
                     "order": 1
+                },
+                {
+                    "id": 5,
+                    "order": 2
+                },
+                {
+                    "id": 20,
+                    "order": 3
+                },
+                {
+                    "id": 21,
+                    "order": 4
+                },
+                {
+                    "id": 9,
+                    "order": 5
                 }
             ]
         },
@@ -107,35 +123,6 @@
                 }
                 
             ]
-        },
-        {   
-            "id": 5,
-            "name": "Output from the design",
-            "cameraDefaultPosition": "TODO",
-            "terrainLayerId": 3,
-            "checkboxMode": false,
-            "layers": [
-                {
-                    "id": 17,
-                    "order": 1
-                },
-                {
-                    "id": 18,
-                    "order": 2
-                },
-                {
-                    "id": 26,
-                    "order": 3
-                },
-                {
-                    "id": 16,
-                    "order": 4
-                },
-                {
-                    "id": 19,
-                    "order": 5
-                }
-            ]
         }
     ],
     "layers": [
@@ -145,7 +132,7 @@
             "source": "ion",
             "type": "3dtiles",
             "canBeHidden": false,
-            "ionAssetId": "2471969",
+            "ionAssetId": "2558034",
             "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
         },
         {
@@ -154,7 +141,7 @@
             "source": "ion",
             "canBeHidden": false,
             "type": "3dtiles",
-            "ionAssetId": "2471953",
+            "ionAssetId": "2559612",
             "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
         },
         {
@@ -163,7 +150,7 @@
             "source": "ion",
             "canBeHidden": false,
             "type": "3dtiles",
-            "ionAssetId": "2471943",
+            "ionAssetId": "2559613",
             "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
         },
         {
@@ -172,7 +159,7 @@
             "source": "ion",
             "canBeHidden": false,
             "type": "3dtiles",
-            "ionAssetId": "2471906",
+            "ionAssetId": "2558041",
             "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwNmI0MzFlMi1hYzk0LTRiNzctOWIzZi0xMzA1MGUzM2ExZDAiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTc3OTk4MDh9.UBjdltIFadN6vj_v4fuAa7B4_NdcpR87hnuGtR-eoJ4"
         },
         {
