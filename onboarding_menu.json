@@ -1,0 +1,26 @@
+{
+    "pointsOfInterest": [
+        {
+            "title": "Main point of interest",
+            "description": "Description of main point of interest",
+            "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.insia.cz%2Fblog%2Fpozor-na-povodne-a-zaplavy-co-delat-abyste-byli-dostatecne-chraneni%2F&psig=AOvVaw3H52cQ6CtHd9n_dcIfiTjW&ust=1716452134267000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIii0NDooIYDFQAAAAAdAAAAABAE",
+            "positionId": 1
+        }
+    ],
+    "positions": [
+        {
+            "id": 1,
+            "longitude": 17.031987721000064,
+            "latitude": 49.49898831400003,
+            "altitude": 320,
+            "rotation": -110
+        },
+        {
+            "id": 2,
+            "longitude": 40.031987721000064,
+            "latitude": 52.49898831400003,
+            "altitude": 330,
+            "rotation": -110
+        }
+    ]
+}
