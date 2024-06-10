@@ -29,9 +29,9 @@
         },
         {
             "id": 2,
-            "longitude": 20.031987721000064,
-            "latitude": 52.49898831400003,
-            "altitude": 330,
+            "longitude": 19.031987721000064,
+            "latitude": 50.49898831400003,
+            "altitude": 320,
             "rotation": -110
         }
     ]
