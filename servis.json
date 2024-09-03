@@ -28,7 +28,7 @@
         {
             "name": "Project4",
             "order": 4,
-            "description": "",
+            "description": "desc",
             "sceneIds": [
                 "66b8e46ef3c6cd92f961da78"
             ],
