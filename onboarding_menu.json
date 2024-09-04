@@ -4,7 +4,20 @@
             "id": 1,
             "title": "Main point of interest",
             "description": "Description of main point of interest",
-            "imageUrl": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+            ],
             "position": {
                 "longitude": 17.031987721000064,
                 "latitude": 49.49898831400003,
@@ -17,21 +30,23 @@
             }
         },
         {
-            "id": 2,
-            "title": "Second point of interest",
-            "description": "Description of seonc point of interest",
-            "imageUrl": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg",
-            "position": {
-                "longitude": 19.031987721000064,
-                "latitude": 50.49898831400003,
-                "altitude": 320
-            }
-        },
-        {
             "id": 3,
             "title": "Third point of interest",
             "description": "Description of main point of interest",
-            "imageUrl": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+            ],
             "position": {
                 "longitude": 17.031987721000064,
                 "latitude": 49.49898831400003,
