@@ -1,52 +1,18 @@
 {
     "content": [
         {
-            "name": "Project1",
-            "order": 2,
+            "name": "WATERLINE",
             "description": "",
             "sceneIds": [
-                "66d6cb5e653209ee7af15f57",
-                "66b8e46ef3c6cd92f961da78"
+                "66d83c1acbddfdb9a5841227",
+                "66d83bc9cbddfdb9a5841223",
+                "66d83b64cbddfdb9a584121f",
+                "66d83aedcbddfdb9a584121b",
+                "66d83a8ecbddfdb9a5841217"
             ],
             "public": false,
-            "created": "2024-09-03T08:35:32.825000",
-            "id": "66d6ca55653209ee7af15f55"
-        },
-        {
-            "name": "Project2",
-            "order": 1,
-            "description": "",
-            "sceneIds": [
-                "66d6cb5e653209ee7af15f57",
-                "66b8e46ef3c6cd92f961da78",
-                "66d6ccaa653209ee7af15f59"
-            ],
-            "public": false,
-            "created": "2024-09-03T08:45:06.301000",
-            "id": "66d6cc92653209ee7af15f58"
-        },
-        {
-            "name": "Project4",
-            "order": 4,
-            "description": "desc",
-            "sceneIds": [
-                "66b8e46ef3c6cd92f961da78"
-            ],
-            "public": false,
-            "created": "2024-09-03T11:25:18.280000",
-            "id": "66d6f21f653209ee7af15f5e"
-        },
-                {
-            "name": "Project3",
-            "order": 3,
-            "description": "desc",
-            "sceneIds": [
-                "66d6cb5e653209ee7af15f57",
-                "66d6ccaa653209ee7af15f59"
-            ],
-            "public": false,
-            "created": "2024-09-03T11:25:08.608000",
-            "id": "66d6f215653209ee7af15f5d"
+            "created": "2024-09-04T10:56:53.859000",
+            "id": "66d83cf6cbddfdb9a5841228"
         }
     ]
 }
