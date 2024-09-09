@@ -9,12 +9,12 @@
       "description": "",
       "order": 0,
       "cameraDefaultPosition": {
-        "latitude": 49.499391,
-        "longitude": 17.031528,
-        "altitude": 310,
-        "roll": 0,
-        "pitch": 0,
-        "yaw": 120.0
+        "latitude": 49.49914,
+        "longitude": 17.031458,
+        "altitude": 305.0,
+        "roll": 0.0,
+        "pitch": 0.0,
+        "yaw": -90.0
       },
       "terrainType": "ellipsoid",
       "terrainLayerId": null,
@@ -53,12 +53,12 @@
             "position": {
               "latitude": 49.499391,
               "longitude": 17.031528,
-              "altitude": 310.0
+              "altitude": 305.0
             },
             "rotation": {
                 "roll": 0.0,
-                "pitch": 0.0,
-                "yaw": -10.0
+                "pitch": 80.0,
+                "yaw": 0.0
             }
         }
       ]
@@ -69,12 +69,12 @@
       "description": "",
       "order": 1,
       "cameraDefaultPosition": {
-        "latitude": 49.4983705429124,
-        "longitude": 17.0323768390083,
-        "altitude": 47.446026645706,
-        "roll": 0.000463432548692607,
-        "pitch": -15.2458378797107,
-        "yaw": 326.653463090892
+        "latitude": 49.49914,
+        "longitude": 17.031458,
+        "altitude": 305.0,
+        "roll": 0.0,
+        "pitch": 0.0,
+        "yaw": -90.0
       },
       "terrainType": "ellipsoid",
       "terrainLayerId": null,
@@ -111,14 +111,14 @@
                 }
             ],
             "position": {
-                "longitude": 17.031987721000064,
-                "latitude": 49.49898831400003,
-                "altitude": 320
+              "latitude": 49.499391,
+              "longitude": 17.031528,
+              "altitude": 305.0
             },
             "rotation": {
-                "roll": 10.3,
-                "pitch": 20.4,
-                "yaw": 10.3
+                "roll": 0.0,
+                "pitch": 80.0,
+                "yaw": 0.0
             }
         }
       ]
@@ -129,12 +129,12 @@
       "description": "",
       "order": 2,
       "cameraDefaultPosition": {
-        "latitude": 49.4982761426153,
-        "longitude": 17.0311818047871,
-        "altitude": 122.815238151399,
-        "roll": 360,
-        "pitch": -28.6499073235875,
-        "yaw": 360
+        "latitude": 49.49914,
+        "longitude": 17.031458,
+        "altitude": 305.0,
+        "roll": 0.0,
+        "pitch": 0.0,
+        "yaw": -90.0
       },
       "terrainType": "ellipsoid",
       "terrainLayerId": null,
@@ -171,14 +171,14 @@
                 }
             ],
             "position": {
-                "longitude": 17.031987721000064,
-                "latitude": 49.49898831400003,
-                "altitude": 320
+              "latitude": 49.499391,
+              "longitude": 17.031528,
+              "altitude": 305.0
             },
             "rotation": {
-                "roll": 10.3,
-                "pitch": 20.4,
-                "yaw": 10.3
+                "roll": 0.0,
+                "pitch": 80.0,
+                "yaw": 0.0
             }
         }
       ]
@@ -189,12 +189,12 @@
       "description": "",
       "order": 3,
       "cameraDefaultPosition": {
-        "latitude": 49.4980388248322,
-        "longitude": 17.0311835996788,
-        "altitude": 162.760572519463,
-        "roll": 359.999999999999,
-        "pitch": -28.6491987032389,
-        "yaw": 360
+        "latitude": 49.49914,
+        "longitude": 17.031458,
+        "altitude": 305.0,
+        "roll": 0.0,
+        "pitch": 0.0,
+        "yaw": -90.0
       },
       "terrainType": "ellipsoid",
       "terrainLayerId": null,
@@ -231,14 +231,14 @@
                 }
             ],
             "position": {
-                "longitude": 17.031987721000064,
-                "latitude": 49.49898831400003,
-                "altitude": 320
+              "latitude": 49.499391,
+              "longitude": 17.031528,
+              "altitude": 305.0
             },
             "rotation": {
-                "roll": 10.3,
-                "pitch": 20.4,
-                "yaw": 10.3
+                "roll": 0.0,
+                "pitch": 80.0,
+                "yaw": 0.0
             }
         }
       ]
@@ -249,12 +249,12 @@
       "description": "",
       "order": 4,
       "cameraDefaultPosition": {
-        "latitude": 49.4991721524285,
-        "longitude": 17.0313847303087,
-        "altitude": 336.097849130239,
-        "roll": 359.999866183584,
-        "pitch": -22.0719298325529,
-        "yaw": 9.075971902714
+        "latitude": 49.49914,
+        "longitude": 17.031458,
+        "altitude": 305.0,
+        "roll": 0.0,
+        "pitch": 0.0,
+        "yaw": -90.0
       },
       "terrainType": "google_3d_tiles",
       "terrainLayerId": null,
