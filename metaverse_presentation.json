@@ -56,8 +56,8 @@
               "altitude": 310,
             },
             "rotation": {
-                "roll": 10.3,
-                "pitch": 20.4,
+                "roll": 0.0,
+                "pitch": 0.0,
                 "yaw": 10.3
             }
         }
