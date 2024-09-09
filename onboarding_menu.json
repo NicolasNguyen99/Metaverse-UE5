@@ -2,20 +2,12 @@
     "pointsOfInterest": [
         {
             "id": 1,
-            "title": "Main point of interest",
-            "description": "Description of main point of interest",
+            "title": "Current riverbed",
+            "description": "Existing riverbed parameters are not able to handle this design flow of Q50. It is therefore necessary to modify the riverbed. ",
             "contentUrls": [
                 {
                     "type": "image",
-                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                    "url": "https://owncloud.cesnet.cz/index.php/s/QMLqaxml66FNAbV/download?path=%2F&files=original.jpeg"
                 }
             ],
             "position": {
@@ -30,27 +22,61 @@
             }
         },
         {
-            "id": 3,
-            "title": "Third point of interest",
-            "description": "Description of main point of interest",
+            "id": 2,
+            "title": "Rectangular profile",
+            "description": "Rectangular profile of watercourses is chosen in case of confined conditions in the municipality's intramural area, but only when absolutely necessary and is better avoided. ",
             "contentUrls": [
                 {
                     "type": "image",
-                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "https://porek.mendelu.cz/wcd/photogallery/w-rek-ovav/obrazek.pl_kola.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                    "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Frectangular.jpg&c=eb524ee8c29b69a1464aac94b2c725c3&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
                 }
             ],
             "position": {
-                "longitude": 20.031987721000064,
-                "latitude": 51.49898831400003,
+                "longitude": 17.531987721000064,
+                "latitude": 49.59898831400003,
                 "altitude": 320
+            }
+        },
+        {
+            "id": 3,
+            "title": "Trapezoidal profile",
+            "description": "Trapezoidal profile can be chosen in locations with sufficient space. This is the most commonly used profile, the gentler bank slopes are more stable, and fortification is usually cheaper than with the rectangular profile. ",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Ftrapezoid.jpg&c=3cffddd87317abebcd9d0a4bc16e38cd&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                }
+            ],
+            "position": {
+                "longitude": 17.531987721000064,
+                "latitude": 49.59898831400003,
+                "altitude": 320
+            }
+            "rotation": {
+                "roll": 10.3,
+                "pitch": 20.4,
+                "yaw": 10.3
+            }
+        },
+        {
+            "id": 4,
+            "title": "Double trapezoidal profile",
+            "description": "In case of fluctuating flows during the year, a double trapezoidal profile is chosen. During low water levels in the dry season, the water flows through the cuvette, and in case of increased flows (e.g. rainfall, snowmelt) through the entire double trapezoid profile. ",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdouble_trapezoid.jpg&c=5943c3185650dc5329ccbd05937ebd23&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                }
+            ],
+            "position": {
+                "longitude": 17.531987721000064,
+                "latitude": 49.59898831400003,
+                "altitude": 320
+            }
+            "rotation": {
+                "roll": 10.3,
+                "pitch": 20.4,
+                "yaw": 10.3
             }
         }
     ]
