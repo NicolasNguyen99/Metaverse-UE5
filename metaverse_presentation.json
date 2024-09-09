@@ -14,7 +14,7 @@
         "altitude": 310,
         "roll": 0,
         "pitch": 0,
-        "yaw": 351.859570299475
+        "yaw": 120.0
       },
       "terrainType": "ellipsoid",
       "terrainLayerId": null,
@@ -53,12 +53,12 @@
             "position": {
               "latitude": 49.499391,
               "longitude": 17.031528,
-              "altitude": 310
+              "altitude": 310.0
             },
             "rotation": {
                 "roll": 0.0,
                 "pitch": 0.0,
-                "yaw": -10.3
+                "yaw": -10.0
             }
         }
       ]
