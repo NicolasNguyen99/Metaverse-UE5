@@ -111,9 +111,14 @@
                 }
             ],
             "position": {
-                "longitude": 17.531987721000064,
-                "latitude": 49.59898831400003,
+                "longitude": 17.031987721000064,
+                "latitude": 49.49898831400003,
                 "altitude": 320
+            },
+            "rotation": {
+                "roll": 10.3,
+                "pitch": 20.4,
+                "yaw": 10.3
             }
         }
       ]
@@ -166,8 +171,8 @@
                 }
             ],
             "position": {
-                "longitude": 17.531987721000064,
-                "latitude": 49.59898831400003,
+                "longitude": 17.031987721000064,
+                "latitude": 49.49898831400003,
                 "altitude": 320
             },
             "rotation": {
@@ -226,12 +231,12 @@
                 }
             ],
             "position": {
-                "longitude": 17.531987721000064,
-                "latitude": 49.59898831400003,
+                "longitude": 17.031987721000064,
+                "latitude": 49.49898831400003,
                 "altitude": 320
             },
             "rotation": {
-                "roll": 10.34,
+                "roll": 10.3,
                 "pitch": 20.4,
                 "yaw": 10.3
             }
