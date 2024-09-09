@@ -51,9 +51,9 @@
                 }
             ],
             "position": {
-                "longitude": 17.031987721000064,
-                "latitude": 49.49898831400003,
-                "altitude": 320
+              "latitude": 49.499391,
+              "longitude": 17.031528,
+              "altitude": 310,
             },
             "rotation": {
                 "roll": 10.3,
