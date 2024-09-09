@@ -1,0 +1,401 @@
+{
+  "id": "66d83cf6cbddfdb9a5841228",
+  "name": "WATERLINE",
+  "description": "",
+  "scenes": [
+    {
+      "id": "66d83c1acbddfdb9a5841227",
+      "name": "RB1 (Real state)",
+      "description": "",
+      "order": 0,
+      "cameraDefaultPosition": {
+        "latitude": 49.498988314,
+        "longitude": 17.0319877210001,
+        "altitude": 320,
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 351.859570299475
+      },
+      "terrainType": "ellipsoid",
+      "terrainLayerId": null,
+      "imageryIonAssetId": null,
+      "checkboxMode": false,
+      "layers": [
+        {
+          "id": "66d83c1acbddfdb9a5841224",
+          "order": 0,
+          "isShownByDefault": false
+        }
+      ],
+      "fixedLayers": [
+        {
+          "id": "66d83c1acbddfdb9a5841225",
+          "order": 0,
+          "isShownByDefault": true
+        },
+        {
+          "id": "66d83c1acbddfdb9a5841226",
+          "order": 1,
+          "isShownByDefault": true
+        }
+      ],
+      "pointsOfInterest": [
+          {
+            "id": 1,
+            "title": "Current riverbed",
+            "description": "Existing riverbed parameters are not able to handle this design flow of Q50. It is therefore necessary to modify the riverbed. ",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://owncloud.cesnet.cz/index.php/s/QMLqaxml66FNAbV/download?path=%2F&files=original.jpeg"
+                }
+            ],
+            "position": {
+                "longitude": 17.031987721000064,
+                "latitude": 49.49898831400003,
+                "altitude": 320
+            },
+            "rotation": {
+                "roll": 10.3,
+                "pitch": 20.4,
+                "yaw": 10.3
+            }
+        }
+      ]
+    },
+    {
+      "id": "66d83bc9cbddfdb9a5841223",
+      "name": "RB2 (Rectangular shape)",
+      "description": "",
+      "order": 1,
+      "cameraDefaultPosition": {
+        "latitude": 49.4983705429124,
+        "longitude": 17.0323768390083,
+        "altitude": 47.446026645706,
+        "roll": 0.000463432548692607,
+        "pitch": -15.2458378797107,
+        "yaw": 326.653463090892
+      },
+      "terrainType": "ellipsoid",
+      "terrainLayerId": null,
+      "imageryIonAssetId": null,
+      "checkboxMode": false,
+      "layers": [
+        {
+          "id": "66d83bc9cbddfdb9a5841220",
+          "order": 0,
+          "isShownByDefault": false
+        }
+      ],
+      "fixedLayers": [
+        {
+          "id": "66d83bc9cbddfdb9a5841221",
+          "order": 0,
+          "isShownByDefault": true
+        },
+        {
+          "id": "66d83bc9cbddfdb9a5841222",
+          "order": 1,
+          "isShownByDefault": true
+        }
+      ],
+      "pointsOfInterest": [
+          {
+            "id": 2,
+            "title": "Rectangular profile",
+            "description": "Rectangular profile of watercourses is chosen in case of confined conditions in the municipality's intramural area, but only when absolutely necessary and is better avoided. ",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Frectangular.jpg&c=eb524ee8c29b69a1464aac94b2c725c3&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                }
+            ],
+            "position": {
+                "longitude": 17.531987721000064,
+                "latitude": 49.59898831400003,
+                "altitude": 320
+            }
+        }
+      ]
+    },
+    {
+      "id": "66d83b64cbddfdb9a584121f",
+      "name": "RB3 (Trapezoidal shape)",
+      "description": "",
+      "order": 2,
+      "cameraDefaultPosition": {
+        "latitude": 49.4982761426153,
+        "longitude": 17.0311818047871,
+        "altitude": 122.815238151399,
+        "roll": 360,
+        "pitch": -28.6499073235875,
+        "yaw": 360
+      },
+      "terrainType": "ellipsoid",
+      "terrainLayerId": null,
+      "imageryIonAssetId": null,
+      "checkboxMode": false,
+      "layers": [
+        {
+          "id": "66d83b64cbddfdb9a584121c",
+          "order": 0,
+          "isShownByDefault": false
+        }
+      ],
+      "fixedLayers": [
+        {
+          "id": "66d83b64cbddfdb9a584121d",
+          "order": 0,
+          "isShownByDefault": true
+        },
+        {
+          "id": "66d83b64cbddfdb9a584121e",
+          "order": 1,
+          "isShownByDefault": true
+        }
+      ],
+      "pointsOfInterest": [
+          {
+            "id": 3,
+            "title": "Trapezoidal profile",
+            "description": "Trapezoidal profile can be chosen in locations with sufficient space. This is the most commonly used profile, the gentler bank slopes are more stable, and fortification is usually cheaper than with the rectangular profile. ",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Ftrapezoid.jpg&c=3cffddd87317abebcd9d0a4bc16e38cd&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                }
+            ],
+            "position": {
+                "longitude": 17.531987721000064,
+                "latitude": 49.59898831400003,
+                "altitude": 320
+            },
+            "rotation": {
+                "roll": 10.3,
+                "pitch": 20.4,
+                "yaw": 10.3
+            }
+        }
+      ]
+    },
+    {
+      "id": "66d83aedcbddfdb9a584121b",
+      "name": "RB4 (Trapezoidal shape)",
+      "description": "",
+      "order": 3,
+      "cameraDefaultPosition": {
+        "latitude": 49.4980388248322,
+        "longitude": 17.0311835996788,
+        "altitude": 162.760572519463,
+        "roll": 359.999999999999,
+        "pitch": -28.6491987032389,
+        "yaw": 360
+      },
+      "terrainType": "ellipsoid",
+      "terrainLayerId": null,
+      "imageryIonAssetId": null,
+      "checkboxMode": false,
+      "layers": [
+        {
+          "id": "66d83aedcbddfdb9a5841218",
+          "order": 0,
+          "isShownByDefault": false
+        }
+      ],
+      "fixedLayers": [
+        {
+          "id": "66d83aedcbddfdb9a5841219",
+          "order": 0,
+          "isShownByDefault": true
+        },
+        {
+          "id": "66d83aedcbddfdb9a584121a",
+          "order": 1,
+          "isShownByDefault": true
+        }
+      ],
+      "pointsOfInterest": [
+          {
+            "id": 4,
+            "title": "Double trapezoidal profile",
+            "description": "In case of fluctuating flows during the year, a double trapezoidal profile is chosen. During low water levels in the dry season, the water flows through the cuvette, and in case of increased flows (e.g. rainfall, snowmelt) through the entire double trapezoid profile. ",
+            "contentUrls": [
+                {
+                    "type": "image",
+                    "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdouble_trapezoid.jpg&c=5943c3185650dc5329ccbd05937ebd23&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                }
+            ],
+            "position": {
+                "longitude": 17.531987721000064,
+                "latitude": 49.59898831400003,
+                "altitude": 320
+            },
+            "rotation": {
+                "roll": 10.34,
+                "pitch": 20.4,
+                "yaw": 10.3
+            }
+        }
+      ]
+    },
+    {
+      "id": "66d83a8ecbddfdb9a5841217",
+      "name": "RB5 (Recommended design)",
+      "description": "",
+      "order": 4,
+      "cameraDefaultPosition": {
+        "latitude": 49.4991721524285,
+        "longitude": 17.0313847303087,
+        "altitude": 336.097849130239,
+        "roll": 359.999866183584,
+        "pitch": -22.0719298325529,
+        "yaw": 9.075971902714
+      },
+      "terrainType": "google_3d_tiles",
+      "terrainLayerId": null,
+      "imageryIonAssetId": null,
+      "checkboxMode": false,
+      "layers": [
+        {
+          "id": "66d83a8ecbddfdb9a5841214",
+          "order": 0,
+          "isShownByDefault": false
+        }
+      ],
+      "fixedLayers": [
+        {
+          "id": "66d83a8ecbddfdb9a5841215",
+          "order": 0,
+          "isShownByDefault": true
+        },
+        {
+          "id": "66d83a8ecbddfdb9a5841216",
+          "order": 1,
+          "isShownByDefault": true
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": "66d83c1acbddfdb9a5841224",
+      "name": "Water Level Q50",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471970",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83c1acbddfdb9a5841225",
+      "name": "Real State",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471969",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83c1acbddfdb9a5841226",
+      "name": "Buildings",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471968",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83bc9cbddfdb9a5841220",
+      "name": "Water Level: Q50",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471957",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83bc9cbddfdb9a5841221",
+      "name": "Rectangular Shaped Channel",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471953",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83bc9cbddfdb9a5841222",
+      "name": "Buildings",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471954",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83b64cbddfdb9a584121c",
+      "name": "Water Level: Q50",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471945",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83b64cbddfdb9a584121d",
+      "name": "Rectangular Shaped Channel",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471943",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83b64cbddfdb9a584121e",
+      "name": "Buildings",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471944",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83aedcbddfdb9a5841218",
+      "name": "Water Level: Q50",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471912",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83aedcbddfdb9a5841219",
+      "name": "Rectangular Shaped Channel",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471906",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83aedcbddfdb9a584121a",
+      "name": "Buildings",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2471919",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83a8ecbddfdb9a5841214",
+      "name": "Water Level: Q50",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2498932",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83a8ecbddfdb9a5841215",
+      "name": "Output from the design",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2493936",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    },
+    {
+      "id": "66d83a8ecbddfdb9a5841216",
+      "name": "Buildings",
+      "type": "3dtiles",
+      "source": "ion",
+      "ionAssetId": "2493935",
+      "ionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxY2FlZjNlMi1kMmUzLTQ3MjgtODIxNy1mOTFhOTgwYTEyNjgiLCJpZCI6MTcxMTc2LCJpYXQiOjE2OTcwMDY3MjB9.aOnbxEHuGshFRi8eutInTVwAlfacOM0e8V2evLHOg-E"
+    }
+  ]
+}
