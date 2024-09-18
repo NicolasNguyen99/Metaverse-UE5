@@ -68,7 +68,7 @@
                 "id": "66d83bc9cbddfdb9a5841223",
                 "name": "RB4 (Trapezoidal shape)",
                 "description": "",
-                "order": 1,
+                "order": 3,
                 "cameraDefaultPosition": {
                     "latitude": 49.49914,
                     "longitude": 17.031458,
@@ -188,7 +188,7 @@
                 "id": "66d83aedcbddfdb9a584121b",
                 "name": "RB2 (Rectangular shape)",
                 "description": "",
-                "order": 3,
+                "order": 1,
                 "cameraDefaultPosition": {
                     "latitude": 49.49914,
                     "longitude": 17.031458,
