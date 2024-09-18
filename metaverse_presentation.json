@@ -66,7 +66,7 @@
             },
             {
                 "id": "66d83bc9cbddfdb9a5841223",
-                "name": "RB2 (Rectangular shape)",
+                "name": "RB4 (Trapezoidal shape)",
                 "description": "",
                 "order": 1,
                 "cameraDefaultPosition": {
@@ -126,7 +126,7 @@
             },
             {
                 "id": "66d83b64cbddfdb9a584121f",
-                "name": "RB3 (Trapezoidal shape)",
+                "name": "RB3 (Double trapezoidal shape)",
                 "description": "",
                 "order": 2,
                 "cameraDefaultPosition": {
@@ -186,7 +186,7 @@
             },
             {
                 "id": "66d83aedcbddfdb9a584121b",
-                "name": "RB4 (Trapezoidal shape)",
+                "name": "RB2 (Rectangular shape)",
                 "description": "",
                 "order": 3,
                 "cameraDefaultPosition": {
