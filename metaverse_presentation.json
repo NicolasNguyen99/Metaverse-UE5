@@ -102,13 +102,13 @@
                 ],
                 "pointsOfInterest": [
                     {
-                        "id": 4,
-                        "title": "Double trapezoidal profile",
-                        "description": "In case of fluctuating flows during the year, a double trapezoidal profile is chosen. During low water levels in the dry season, the water flows through the cuvette, and in case of increased flows (e.g. rainfall, snowmelt) through the entire double trapezoid profile. ",
+                        "id": 3,
+                        "title": "Trapezoidal profile",
+                        "description": "Trapezoidal profile can be chosen in locations with sufficient space. This is the most commonly used profile, the gentler bank slopes are more stable, and fortification is usually cheaper than with the rectangular profile. ",
                         "contentUrls": [
                             {
                                 "type": "image",
-                                "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdouble_trapezoid.jpg&c=5943c3185650dc5329ccbd05937ebd23&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                                "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Ftrapezoid.jpg&c=3cffddd87317abebcd9d0a4bc16e38cd&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
                             }
                         ],
                         "position": {
@@ -162,13 +162,13 @@
                 ],
                 "pointsOfInterest": [
                     {
-                        "id": 3,
-                        "title": "Trapezoidal profile",
-                        "description": "Trapezoidal profile can be chosen in locations with sufficient space. This is the most commonly used profile, the gentler bank slopes are more stable, and fortification is usually cheaper than with the rectangular profile. ",
+                        "id": 4,
+                        "title": "Double trapezoidal profile",
+                        "description": "In case of fluctuating flows during the year, a double trapezoidal profile is chosen. During low water levels in the dry season, the water flows through the cuvette, and in case of increased flows (e.g. rainfall, snowmelt) through the entire double trapezoid profile. ",
                         "contentUrls": [
                             {
                                 "type": "image",
-                                "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Ftrapezoid.jpg&c=3cffddd87317abebcd9d0a4bc16e38cd&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
+                                "url": "https://owncloud.cesnet.cz/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdouble_trapezoid.jpg&c=5943c3185650dc5329ccbd05937ebd23&x=1024&y=1024&a=1&t=QMLqaxml66FNAbV"
                             }
                         ],
                         "position": {
